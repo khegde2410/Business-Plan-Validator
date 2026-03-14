@@ -29,7 +29,7 @@ A 7-phase business idea stress-testing tool built for Indian founders. Provide y
    npm install
    ```
 
-3. Copy the example environment file and add your Anthropic key:
+3. Copy the example environment file and add your Anthropic key and save it as .env:
 
    ```bash
    cp .env.example .env
